@@ -1,3 +1,10 @@
+# ATTENTION
+This repo is no longer needed! Adobe released the source for thier dependecies here:
+https://github.com/adobe/aem-react-editable-components
+https://github.com/adobe/aem-spa-component-mapping
+https://github.com/adobe/aem-spa-page-model-manager
+
+
 # Unpack Adobe SPA Dependencies
 
 If you are building an SPA with AEM SPA Editor and react, you're most likely using these NPM depepndecies:
